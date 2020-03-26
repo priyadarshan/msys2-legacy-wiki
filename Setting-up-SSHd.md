@@ -1,1 +1,6 @@
-The nice folks working on GHC wrote down the necessary steps to get SSHd up on MSYS2. It's essentially the same as on Cygwin, but Cygwin has got a nice setup script, while MSYS2 does not. Read the guide on [the GHC wikipage on SSHd](https://ghc.haskell.org/trac/ghc/wiki/Building/Windows/SSHD). There's also [an SSHd setup script](https://gist.github.com/samhocevar/00eec26d9e9988d080ac) by @samhocevar, including helpful comments.
+# MSYS2 documentation has moved
+
+All documentation is now on the [main web site](https://www.msys2.org).
+
+This page should be at [this
+address](https://www.msys2.org/wiki/Setting-up-SSHd).
